@@ -1,4 +1,4 @@
-# for adjust parameter to obtain desired ICCC
+# for adjusting parameters to obtain desired ICCC
 # based on Zotter et al. (2011) PHANTOM SOURCE WIDENING WITH DETERMINISTIC FREQUENCY DEPENDENT TIME DELAYS
 # and Zotter et al. (2013) Efficient Phantom Source Widening
 import numpy as np
